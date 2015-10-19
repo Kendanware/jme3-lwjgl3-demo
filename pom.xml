@@ -210,5 +210,9 @@
                 <enabled>true</enabled>
             </snapshots>
         </repository>
+        <repository>
+            <id>nifty</id>
+            <url>http://nifty-gui.sourceforge.net/nifty-maven-repo/</url>
+        </repository>
     </repositories>
 </project>
